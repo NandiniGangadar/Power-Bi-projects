@@ -1,4 +1,6 @@
 # Blinkit Sales Analysis Project  
+![Alt Text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmavenanalytics.io%2Fproject%2F17591&psig=AOvVaw1pyCTqeGyjtZwVLF_ZkgXv&ust=1739009316066000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjHvuGosYsDFQAAAAAdAAAAABAJ)
+
 
 ## Overview  
 This project involves analyzing the sales performance of Blinkit, an online grocery delivery platform. The analysis is performed using Power BI to uncover insights, track performance metrics, and visualize key trends in the data.  
