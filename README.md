@@ -1,5 +1,5 @@
 # Blinkit Sales Analysis Project  
-![Alt Text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmavenanalytics.io%2Fproject%2F17591&psig=AOvVaw1pyCTqeGyjtZwVLF_ZkgXv&ust=1739009316066000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjHvuGosYsDFQAAAAAdAAAAABAJ)
+![Alt Text]("C:\Users\Dell\Downloads\https___f2fa1cdd9340fae53fcb49f577292458.cdn.bubble.io_f1723878787351x453628117847929100_Screenshot20122836.jfif")
 
 
 ## Overview  
