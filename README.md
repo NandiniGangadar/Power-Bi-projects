@@ -1,5 +1,5 @@
 # Blinkit Sales Analysis Project  
-[blinkitsales.png](https://github.com/NandiniGangadar/Power-Bi-projects/blob/main/blinkitsales.png)
+![blinkitsales](https://github.com/NandiniGangadar/Power-Bi-projects/blob/main/blinkitsales.png)
 
 ## Overview  
 This project involves analyzing the sales performance of Blinkit, an online grocery delivery platform. The analysis is performed using Power BI to uncover insights, track performance metrics, and visualize key trends in the data.  
